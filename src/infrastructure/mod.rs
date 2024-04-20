@@ -1,0 +1,1 @@
+pub mod product_repository_adapter_in_memory;
